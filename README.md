@@ -18,7 +18,7 @@ Giao diện Web: Streamlit
 pip install -r requirements.txt
 
 2. Chuẩn bị dữ liệu:
-Cho thư mục Train ngang hàng với các thư mục kia.
+Cho thư mục Train vào file vừa giải nén.
 
 3. Chạy ứng dụng Web:
 streamlit run app.py
