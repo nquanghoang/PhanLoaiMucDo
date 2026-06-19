@@ -18,7 +18,7 @@ Giao diện Web: Streamlit
 pip install -r requirements.txt
 
 2. Chuẩn bị dữ liệu:
-Tạo thư mục Train/ ở thư mục gốc, bên trong tạo 3 thư mục con: Unripe, Ripe, Overipe .
+Cho thư mục Train ngang hàng với các thư mục kia.
 
 3. Chạy ứng dụng Web:
 streamlit run app.py
